@@ -1,0 +1,10 @@
+# cat_data.yaml
+path: ./data
+train: yolo_dataset/images/train
+val: yolo_dataset/images/val
+
+# 类别数量
+nc: 1
+
+# 类别名称
+names: ['cat']
