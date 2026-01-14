@@ -1,0 +1,6 @@
+numpy==1.26.4
+opencv-contrib-python==4.11.0.86
+picamera2==0.3.30
+scikit-learn==1.7.1
+torch==2.1.0
+ultralytics==8.3.181
